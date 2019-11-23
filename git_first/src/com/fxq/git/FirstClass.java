@@ -11,4 +11,8 @@ public class FirstClass {
         System.out.println("this is my first project ");
         System.out.println("this is my first project ");
     }
+
+    public void add(){
+        System.out.println("add ddddddd.......");
+    }
 }
